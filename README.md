@@ -1,4 +1,4 @@
-## [click here to see the live version of this site](gymwebsiteapi.netlify.app)
+## [click here to see the live version of this site]([gymwebsiteapi.netlify.app)
 
 # Getting Started with Create React App
 
